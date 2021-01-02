@@ -1,5 +1,6 @@
 # Aircraft-Flight-Simulator
 
+•toggle the view of the terrain in the circular order:  its points, its wireframe, and its faces.  The key V is mapped to the toggling of the view.
 
 # Some Flight Dynamics
 
